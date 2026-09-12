@@ -24,7 +24,7 @@ classifiers = [
 graywatch = "graywatch:main"
 
 [project.urls]
-Homepage = "https://github.com/YOUR_USERNAME/graywatch"
+Homepage = "https://github.com/sriharshaviyyala/graywatch"
 
 [tool.setuptools]
 py-modules = ["graywatch"]

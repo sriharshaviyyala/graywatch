@@ -1,5 +1,9 @@
 # GrayWatch
 
+[![ci](https://github.com/sriharshaviyyala/graywatch/actions/workflows/ci.yml/badge.svg)](https://github.com/sriharshaviyyala/graywatch/actions)
+[![license](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
+[![python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](pyproject.toml)
+
 **Find the network device that's lying to you.**
 
 Every dashboard is green. Interfaces up, zero CRC errors, no syslog. And your
