@@ -3,6 +3,7 @@
 [![ci](https://github.com/sriharshaviyyala/graywatch/actions/workflows/ci.yml/badge.svg)](https://github.com/sriharshaviyyala/graywatch/actions)
 [![license](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 [![python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](pyproject.toml)
+[![PyPI](https://img.shields.io/pypi/v/graywatch.svg)](https://pypi.org/project/graywatch/)
 
 **Find the network device that's lying to you.**
 
@@ -25,6 +26,14 @@ dependencies, read-only.
 ```
 
 ## Quick start
+
+```bash
+pip install graywatch
+graywatch demo                                 # 30 seconds to a verdict
+graywatch analyze your-probes.json             # your fabric
+```
+
+Or, single-file style — download `graywatch.py` and:
 
 ```bash
 python graywatch.py demo                       # 30 seconds to a verdict
