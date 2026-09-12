@@ -1,0 +1,102 @@
+[
+  {
+    "src": "leaf1",
+    "dst": "leaf2",
+    "path": [
+      "leaf1",
+      "spine1",
+      "leaf2"
+    ],
+    "loss_pct": 2.526
+  },
+  {
+    "src": "leaf1",
+    "dst": "leaf3",
+    "path": [
+      "leaf1",
+      "spine2",
+      "leaf3"
+    ],
+    "loss_pct": 0.012
+  },
+  {
+    "src": "leaf1",
+    "dst": "leaf4",
+    "path": [
+      "leaf1",
+      "spine1",
+      "leaf4"
+    ],
+    "loss_pct": 2.552
+  },
+  {
+    "src": "leaf1",
+    "dst": "gpufab1",
+    "path": [
+      "leaf1",
+      "spine2",
+      "gpufab1"
+    ],
+    "loss_pct": 0.006
+  },
+  {
+    "src": "leaf2",
+    "dst": "leaf3",
+    "path": [
+      "leaf2",
+      "spine1",
+      "leaf3"
+    ],
+    "loss_pct": 2.543
+  },
+  {
+    "src": "leaf2",
+    "dst": "leaf4",
+    "path": [
+      "leaf2",
+      "spine2",
+      "leaf4"
+    ],
+    "loss_pct": 0.029
+  },
+  {
+    "src": "leaf2",
+    "dst": "gpufab1",
+    "path": [
+      "leaf2",
+      "spine1",
+      "gpufab1"
+    ],
+    "loss_pct": 2.505
+  },
+  {
+    "src": "leaf3",
+    "dst": "leaf4",
+    "path": [
+      "leaf3",
+      "spine2",
+      "leaf4"
+    ],
+    "loss_pct": 0.041
+  },
+  {
+    "src": "leaf3",
+    "dst": "gpufab1",
+    "path": [
+      "leaf3",
+      "spine1",
+      "gpufab1"
+    ],
+    "loss_pct": 2.503
+  },
+  {
+    "src": "leaf4",
+    "dst": "gpufab1",
+    "path": [
+      "leaf4",
+      "spine2",
+      "gpufab1"
+    ],
+    "loss_pct": 0.035
+  }
+]
